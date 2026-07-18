@@ -22,3 +22,6 @@ class Singleton
         Console.WriteLine("Singleton pattern");
     }
 }
+
+
+
