@@ -8,6 +8,9 @@ class Singleton
     }
     public static Singleton Instance
     {
+
+
+
         get
         {
             if (instance == null)
